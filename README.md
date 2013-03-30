@@ -1,5 +1,7 @@
 # Resumé
 
+![me at codebits](https://github.com/brecke/resume/blob/master/me_at_codebits.jpg?raw=true)
+
 ## Profile
 
 I am an opinionated tech lead based in Coimbra, Portugal. I am passionate about the Web, technology and other Hackernews-related content. I am a FOSS supporter and evangelist, even though I use a macbook pro on a daily basis.
