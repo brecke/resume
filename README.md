@@ -22,4 +22,4 @@ I try to make time for pet projects regularly for solving small daily problems a
 
 ## Stands
 
-Safari over Chrome, Ruby over Python, homebrew over macports, editors over IDE’s, iOS over Android, coffee over tea, markdown over textile, stable branch over master branch, trackpad over mouse, natural scrolling over classic scrolling, books over ebooks, Spotify over Rdio, Simplenote over Evernote, iTerm2 over Terminal, Latex over MS Word, HTML5 over Flash, Postgresql over MySQL, Ember over backbone, Debian over Ubuntu (and anything over Windows), casual dressing over smart dressing.
+Safari over Chrome, Ruby over Python, homebrew over macports, editors over IDE’s, iOS over Android, coffee over tea, markdown over textile, stable branch over master branch, trackpad over mouse, natural scrolling over classic scrolling, books over ebooks, Spotify over Rdio, Simplenote over Evernote, iTerm2 over Terminal, Latex over MS Word, HTML5 over Flash, Postgresql over MySQL, Single page apps over classic webapps, Angular over Ember, Debian over Ubuntu (and anything over Windows), casual dressing over smart dressing.
