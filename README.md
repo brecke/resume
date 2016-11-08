@@ -6,7 +6,7 @@
 
 I'm a driven software engineer and an open science / data / source enthusiast, living in Coimbra, Portugal.
 
-I am a full-stack software engineer and tech lead who loves crafting software projects using open source. Besides programming I like experimenting with technology stacks (mostly backend, not as much frontend), mentoring and managing agile teams. I also do some devops work, mostly docker orchestration for development, deployment and continuous integration purposes.
+I am a full-stack software engineer and tech lead who loves crafting software projects using open source. Besides programming I like experimenting with technology stacks (mostly backend, not as much frontend), mentoring and managing agile teams.
 
 I also try to make time for pet projects regularly for solving small daily problems and general experimenting and learning.
 
@@ -16,7 +16,7 @@ I strongly believe in working smarter, not harder. Check out my [resume visualiz
 
 As a software engineer my main skill is problem-solving and complexity management. I like to make sure everything I put my name in is well designed (as in thought) and well crafted.
 
-I love crafting products no matter the technology I’m using, as long as it’s the right one for the job and open source. I have used several technologies throughout the years, including Ruby on Rails, Python & Django / Flask, JavaEE and Java.
+I love building products no matter the technology I’m using, as long as it’s the right one for the job and open source. I have used several technologies throughout the years, including Ruby on Rails, Python & Django / Flask, JavaEE and Java.
 
 Lately I’ve been using mostly Javascript both professionally as well as in my pet projects. I have also done some devops work, mostly docker orchestration for development and deployment purposes. I’m hoping to find the time to sharpen my javascript skills and look into ReactJS/Redux in the near future. I have also been a part-time sysadmin for some time in the past, especially around development, collaboration and automation tools.
 
