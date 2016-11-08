@@ -4,22 +4,48 @@
 
 ## Profile
 
-I am an opinionated tech lead based in Coimbra, Portugal. I am passionate about the Web, technology and other Hackernews-related content. I am a FOSS supporter and evangelist, even though I use a macbook pro on a daily basis.
+I'm a driven software engineer and an open science / data / source enthusiast, living in Coimbra, Portugal.
 
-I am very eager to learn new things, be it the new framework on the block or agile practices (kanban is my favorite).
+I am a full-stack software engineer and tech lead who loves crafting software projects using open source. Besides programming I like experimenting with technology stacks (mostly backend, not as much frontend), mentoring and managing agile teams. I also do some devops work, mostly docker orchestration for development, deployment and continuous integration purposes.
 
-I strongly believe in working smarter, not harder.
+I also try to make time for pet projects regularly for solving small daily problems and general experimenting and learning.
+
+I strongly believe in working smarter, not harder. Check out my [resume visualized on github](https://github.com/brecke/resume-visualized).
 
 ## Skills
 
-These days I’m more of a tech lead than a developer. That means analysing and testing technology stacks (both frontend and backend), designing APIs and making a lot of decisions (and compromises).
+As a software engineer my main skill is problem-solving and complexity management. I like to make sure everything I put my name in is well designed (as in thought) and well crafted.
 
-Technically I have used the right tool for the job in most of my development projects, including Ruby on Rails, Python & Django, Java and Javascript. I love crafting products no matter the technology I’m using, as long as it’s the right one for the job and open source.
+I love crafting products no matter the technology I’m using, as long as it’s the right one for the job and open source. I have used several technologies throughout the years, including Ruby on Rails, Python & Django / Flask, JavaEE and Java.
 
-I also do some devops work and help maintaining internal services based on open source products. That includes project management tools, collaboration tools, chat rooms, versioning servers, etc. My virtual server templates are preferably debian based and come with vim and git installed as a default.
-
-I try to make time for pet projects regularly for solving small daily problems and general experimenting and learning. Future personal assignments include playing with Node and Web Components.
+Lately I’ve been using mostly Javascript both professionally as well as in my pet projects. I have also done some devops work, mostly docker orchestration for development and deployment purposes. I’m hoping to find the time to sharpen my javascript skills and look into ReactJS/Redux in the near future. I have also been a part-time sysadmin for some time in the past, especially around development, collaboration and automation tools.
 
 ## Stands
 
-Safari over Chrome, Ruby over Python, homebrew over macports, editors over IDE’s, Textmate over Sublime Text (on any version), iOS over Android, coffee over tea, markdown over textile, stable branch over master branch, trackpad over mouse, natural scrolling over classic scrolling, books over ebooks, Spotify over Rdio, Simplenote over Evernote, iTerm2 over Terminal, Fish shell over Zsh, Latex over MS Word, HTML5 over Flash, Postgresql over MySQL, Single page apps over classic webapps, Angular over Ember, Debian over Ubuntu (and anything over Windows), casual dressing over smart dressing.
+- Safari over Chrome (Yes, really, because [shortcat](https://shortcatapp.com))
+- Python over Ruby (actually not sure anymore, JS over both)
+- Homebrew over macports (macports was huge back in 2008, ok?)
+- Editors over IDE’s
+- Textmate over Sublime Text (any version)
+- Atom over visual studio
+- Native apps over electron
+- iOS over Android
+- Coffee over tea
+- Markdown over textile (ok, this is kind of obsolete)
+- Stable branch over master branch
+- Trackpad over mouse
+- Natural scrolling over classic scrolling
+- Books over ebooks
+- Spotify over Rdio (or Apple's thing)
+- Simplenote over Evernote (though I'm using iA writer)
+- iTerm2 over Terminal
+- iCloud over dropbox (it's just a feature, not a product, right?)
+- Zsh over bash
+- Pages over MS Word
+- HTML5 over Flash (ok, this sounds ridiculous in 2016)
+- Postgresql over MySQL
+- rethinkDB over mongoDB
+- Single page apps over classic webapps
+- React over Angular (any version)
+- Debian over Ubuntu (and anything over Windows)
+- Casual dressing over smart dressing
